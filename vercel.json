@@ -1,5 +1,5 @@
 {
-  "buildCommand": "npx vite build",
+  "buildCommand": "npm run build --ignore-scripts",
   "outputDirectory": "dist",
   "installCommand": "npm install",
   "framework": "vite"
